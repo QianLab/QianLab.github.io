@@ -23,7 +23,7 @@ The team consisted of 4 people:
 - Jeff Bartlett: Mesh Network Subsystem
 - Connor Furqueron: Power Subsystem
 - Charles Anderson: Microcontroller Subsystem
-- Randy Ardywibowo: Data Analysis/App Development
+- Qian Lab: Data Analysis/App Development
 
 ### Methodology
 

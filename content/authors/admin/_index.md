@@ -1,5 +1,5 @@
 ---
-title: Randy Ardywibowo
+title: Qian Lab
 role: PhD Candidate in Electrical Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include

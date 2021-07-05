@@ -6,7 +6,7 @@ publication_types:
   - "1"
 authors:
   - Shahin Boluki
-  - Randy Ardywibowo
+  - Qian Lab
   - Siamak Zamani Dadaneh 
   - Mingyuan Zhou
   - Xiaoning Qian
