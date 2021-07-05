@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>school | Qian Lab</title><link>https://qianlab.github.io/tag/school/</link><atom:link href="https://qianlab.github.io/tag/school/index.xml" rel="self" type="application/rss+xml"/><description>school</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Tue, 28 Mar 2017 12:00:00 +0000</lastBuildDate><image><url>https://qianlab.github.io/media/icon_hu2d133e36a3bc1d258e5bb52f2c61da77_6522_512x512_fill_lanczos_center_2.png</url><title>school</title><link>https://qianlab.github.io/tag/school/</link></image><item><title>Ranch Hand: Monitoring Livestock in an Open Field</title><link>https://qianlab.github.io/post/ranch-hand/</link><pubDate>Tue, 28 Mar 2017 12:00:00 +0000</pubDate><guid>https://qianlab.github.io/post/ranch-hand/</guid><description>&lt;p>Final senior design project sponsored by Texas Instruments. I created a web app that connects with a mesh network Internet of Things (IoT) through Amazon Web Service (AWS). [&lt;a href="https://qianlab.github.io/papers/ranch-hand.pdf">Report&lt;/a>] [&lt;a href="https://github.com/ardywibowo/RanchHand" target="_blank" rel="noopener">Source Code&lt;/a>] [&lt;a href="https://www.youtube.com/watch?v=GD-po7wXn5k" target="_blank" rel="noopener">Video&lt;/a>] [&lt;a href="https://www.youtube.com/watch?v=EMdEP-M_pK0" target="_blank" rel="noopener">Jason Barn&lt;/a>].&lt;/p>
+&lt;h3 id="team-composition">Team Composition&lt;/h3>
+&lt;p>The team consisted of 4 people:&lt;/p>
+&lt;ul>
+&lt;li>Jeff Bartlett: Mesh Network Subsystem&lt;/li>
+&lt;li>Connor Furqueron: Power Subsystem&lt;/li>
+&lt;li>Charles Anderson: Microcontroller Subsystem&lt;/li>
+&lt;li>Qian Lab: Data Analysis/App Development&lt;/li>
+&lt;/ul>
+&lt;h3 id="methodology">Methodology&lt;/h3>
+&lt;p>In the following video, I have laid out the general procedure of the data processing part of this project. It mainly consists of data generation, optimal sensor placement, and trilateration algorithm.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/GD-po7wXn5k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>An example of the main view of the web app is shown below:
+&lt;img src="https://qianlab.github.io/img/ranch-hand-main.png" alt="Ranch Hand Main Web App View">&lt;/p>
+&lt;h3 id="reflection">Reflection&lt;/h3>
+&lt;p>In the end, despite team difficulties, we finished an interesting IoT application.&lt;/p>
+&lt;p>Here is a cool advertisement video/movie of our project. To be honest, the video doesn&amp;rsquo;t contain a lot of technical merit, but I would be wrong if I said that it isn&amp;rsquo;t amazing. Enjoy :).&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/EMdEP-M_pK0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Bone Reconstruction from Ultrasound Imagery</title><link>https://qianlab.github.io/post/bone-reconstruction/</link><pubDate>Wed, 30 Nov 2016 12:00:00 +0000</pubDate><guid>https://qianlab.github.io/post/bone-reconstruction/</guid><description>&lt;p>I constructed a 3D representation of bone structure from ultrasound images. The ultrasound images were denoised using a Gabor filter based Generalized Linear Model (GLM) trained on a ground truth cross-section of bone image. [&lt;a href="https://github.com/ardywibowo/BoneReconstruction" target="_blank" rel="noopener">Code&lt;/a>] [&lt;a href="https://qianlab.github.io/papers/GaborBone.pdf">Report&lt;/a>].&lt;/p>
+&lt;h3 id="methodology">Methodology&lt;/h3>
+&lt;h3 id="reflection">Reflection&lt;/h3></description></item></channel></rss>
