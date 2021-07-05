@@ -5,7 +5,7 @@
 
 title: Qian Lab # Website name
 baseurl: 'https://qianlab.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '2021' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
