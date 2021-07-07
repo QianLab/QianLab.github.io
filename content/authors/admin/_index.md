@@ -1,13 +1,10 @@
 ---
 title: Qian Lab
-role: PhD Candidate in Electrical Engineering
+role: Research Lab
 avatar_filename: avatar.jpg
 bio: My research interests include
 interests:
-  - Time-series
-  - Graphical Modeling
-  - Temporal Structure Learning
-  - Robust System Intervention/Control
+  - Group interests
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,8 +36,6 @@ email: "randyardywibowo@tamu.edu"
 superuser: true
 highlight_name: false
 ---
-I am a PhD candidate in the Biomedical & Genomic Signal Processing (GSP) Lab in Texas A&M University’s Electrical and Computer Engineering Department, with Professor Xiaoning Qian as my advisor. 
-
-My current interests are in uncertainty quantification in machine learning, with applications to time-series prediction, computer vision, energy-efficient ML, anomaly detection, continual learning, deep model compression, and healthcare.
+Group Biography
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/randy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
