@@ -24,14 +24,14 @@ social:
 organizations:
   - name: Texas A&M University
     url: https://www.tamu.edu/
-education:
-  courses:
-    - course: PhD in Electrical Engineering
-      institution: Texas A&M University
-      year: 2022
-    - course: B.Sc. in Electrical Engineering
-      institution: Texas A&M University
-      year: 2017
+# education:
+#   courses:
+#     - course: PhD in Electrical Engineering
+#       institution: Texas A&M University
+#       year: 2022
+#     - course: B.Sc. in Electrical Engineering
+#       institution: Texas A&M University
+#       year: 2017
 email: "randyardywibowo@tamu.edu"
 superuser: true
 highlight_name: false
