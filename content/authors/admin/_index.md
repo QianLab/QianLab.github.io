@@ -38,4 +38,4 @@ highlight_name: false
 ---
 Group Biography
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/randy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/randy_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
